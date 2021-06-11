@@ -1,0 +1,1 @@
+In this video I am going to show How to Do Git and GitHub Integration with Jenkins (SCM or source code management). In addition This video will cover How to Create a Jenkins job to run clone and build Java program and Add the project to Git and GitHub use Poll SCM option.
